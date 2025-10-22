@@ -69,11 +69,6 @@ Installation Steps
 Download the Release
 
 bash
-# Clone the repository
-git clone https://github.com/your-username/dota2-ui-toolkit.git
-Build the Project
-
-bash
 # Navigate to project directory
 cd dota2-ui-toolkit
 
